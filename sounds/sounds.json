@@ -1,0 +1,20 @@
+{
+  "boost": {
+    "sounds": [
+      "sounds/boost"
+    ],
+    "category": "player"
+  },
+  "speed_wind": {
+    "sounds": [
+      "sounds/speed_wind"
+    ],
+    "category": "player"
+  },
+  "thunderclap": {
+    "sounds": [
+      "sounds/thunderclap"
+    ],
+    "category": "player"
+  }
+}
